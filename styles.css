@@ -67,7 +67,7 @@ nav ul li a:hover {
 
 /* Header with Background Image */
 header {
-    background: url('images/SVKM\ IOT.jpg') no-repeat center center fixed;
+    background: url('images\SVKM\ IOT.jpg') no-repeat center center fixed;
     background-size: cover;
     color: white;
     text-align: center;
